@@ -1,0 +1,16 @@
+{
+  "name": "RDVAleart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RDVAlert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^6.4.0",
+    "request": "^2.88.0"
+  }
+}
